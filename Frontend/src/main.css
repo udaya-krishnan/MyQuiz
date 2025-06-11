@@ -1,0 +1,14 @@
+/* Add this to your main CSS file, e.g., main.css or styles.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Or at least */
+
+body {
+  margin: 0;
+  padding: 0;
+}
