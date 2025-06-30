@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Login from './User/auth/Login';
-import Register from './User/auth/Register';
-import Otp from './User/auth/Otp';
-import ForgotPassword from './User/auth/ForgotPassword';
+import Login from './components/User/auth/Login';
+import Register from './components/User/auth/Register';
+import Otp from './components/User/auth/Otp';
+import ForgotPassword from './components/User/auth/ForgotPassword';
 
 function App() {
   return (
